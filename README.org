@@ -4,21 +4,29 @@
 
 * General and Design
 - Page Size
-  - 
+  - A4
 - Page Oriantation
-  -
+  - Landscape
 - Number of Copies
-  -
+  - 500
 - Cover page
-  -
+  - Haitham
+- Overall design
+  - Ronnie and Haitham (Not sure)
 - Deadline of first draft
-  -
+  - Design / 30-12-2021
+  - Content / 10-01-2022
+- Review: / 13-01/2022
+  - Araz and Zeyad
+  - One week.
+- Final Version: 20-01-2021
+- Type of paper
+  - N/A
 
-* Pages to be made [0/7]
+* Pages to be made [0/8]
 - [ ] Table of Content
-- [ ] Abbreviations
-- [ ] Introduction
-- [ ] About Harikar
+- [ ] Introduction: Mr. Salah / 30-12-2021 
+- [ ] About Harikar: Mr. Salah / 30-12-2021
 - [ ] At a Glance
 - [ ] Projects [0/12]
   - [ ] UNHCR
@@ -56,4 +64,6 @@
   - [ ] WASH [0/2]
     - [ ] DashBoard
     - [ ] Summary
-- [ ] Our Partners
+- [ ] Abbreviations: As an Annix at the end
+- [ ] Info Page
+- [ ] Full photo page
