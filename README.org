@@ -1,0 +1,59 @@
+#+TITLE: Harikar Annual Report 2021
+#+AUTHOR: Ronnie Nissan
+#+OPTIONS: num:nil
+
+* General and Design
+- Page Size
+  - 
+- Page Oriantation
+  -
+- Number of Copies
+  -
+- Cover page
+  -
+- Deadline of first draft
+  -
+
+* Pages to be made [0/7]
+- [ ] Table of Content
+- [ ] Abbreviations
+- [ ] Introduction
+- [ ] About Harikar
+- [ ] At a Glance
+- [ ] Projects [0/12]
+  - [ ] UNHCR
+  - [ ] UNFPA
+  - [ ] CARE GAC
+  - [ ] SCI/DTV
+  - [ ] SCI/SIDA
+  - [ ] AFD/GIZ
+  - [ ] IHF/Solidarity
+  - [ ] IHF/WVI [0/2]
+    - [ ] First Project
+    - [ ] Second Project
+  - [ ] UNICEF [0/2]
+    - [ ] First Project
+    - [ ] Seconf Project
+  - [ ] CARE/BMZ (Ask)
+  - [ ] IHF/Dorcas(Rowan)
+  - [ ] Dr. Sarah
+- [ ] Cluster Pages [0/6]
+  - [ ] Protection [0/2]
+    - [ ] DashBoard
+    - [ ] Summary
+  - [ ] GBV [0/2]
+    - [ ] DashBoard
+    - [ ] Summary
+  - [ ] Child Protection [0/2]
+    - [ ] DashBoard
+    - [ ] Summary
+  - [ ] Health [0/2]
+    - [ ] DashBoard
+    - [ ] Summary
+  - [ ] Livelihood [0/2]
+    - [ ] DashBoard
+    - [ ] Summary
+  - [ ] WASH [0/2]
+    - [ ] DashBoard
+    - [ ] Summary
+- [ ] Our Partners
