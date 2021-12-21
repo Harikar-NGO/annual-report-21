@@ -4,15 +4,13 @@
 
 * General and Design
 - Page Size
-  - A4
-- Page Oriantation
-  - Landscape
+  - Square from A4
 - Number of Copies
   - 500
 - Cover page
-  - Haitham
+  - 
 - Overall design
-  - Ronnie and Haitham (Not sure)
+  - Ronnie and 
 - Deadline of first draft
   - Design / 30-12-2021
   - Content / 10-01-2022
@@ -21,7 +19,8 @@
   - One week.
 - Final Version: 20-01-2021
 - Type of paper
-  - N/A
+  - Cover: ..
+  - Pages: ..
 
 * Pages to be made [0/8]
 - [ ] Table of Content
